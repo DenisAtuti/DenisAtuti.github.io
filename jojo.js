@@ -74,7 +74,7 @@ function getHeight() {
   );
 }
 function comparison(){
-  if(getWidth() <= 520){
+  if(getWidth() <= 640){
     stopScrollLoop();
   }else{
     startScrollLoop();

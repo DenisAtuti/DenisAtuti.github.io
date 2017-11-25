@@ -6,7 +6,7 @@ body{
   	color: black;
   	font-size: 25px;
   	display: inline-block;
-    padding-right: 10px;
+    padding: 10px;
 }
 .headline p {
   	letter-spacing: 1.6px;
@@ -42,7 +42,7 @@ body{
         width: 100%
   }
 }
-@media screen and (max-width: 520px){
+@media screen and (max-width: 640px){
   .headline{
     font-size: 10px;
     padding: 10px;
