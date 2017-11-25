@@ -1,7 +1,6 @@
 body{
 	padding: 0;
 	margin:0;
-	background-color: back;
 }
 .headline {
   	color: black;
@@ -16,22 +15,12 @@ body{
   	font-style: italic;
   	width: 500px;
 }
-/*
-.reasons{
-	color: white;
-	font-family: cursive;
-	font-style: italic;
-	display: inline-block;
-	width: 520px;
-}
-*/
 .slideshow-container {
   	/*max-width: 1000px;*/
   	position: relative;
   	float: right;
   	width: 800px;
   	height: 800px;
-  	padding-right: 0;
 }
 .pic{
   	width: 100%;
